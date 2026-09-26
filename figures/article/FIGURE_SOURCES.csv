@@ -1,0 +1,7 @@
+figure,file,role,source_table,selection_or_aggregation
+1,Fig1.pdf,Study design overview,,Conceptual diagram
+2,Fig2.pdf,H1 seed-level Text-IS differences,results/conditional/tables/paired_differences.csv,contrast_id=h1_qlora_text_is
+3,Fig3.pdf,H3 seed-level requested-label accuracy and equivalence,results/conditional/tables/equivalence_paired_differences.csv,contrast_id=h3_label_accuracy_equivalence; interval from equivalence_tests.csv
+4,Fig4.pdf,V2 cross-encoder rank stability,results/canonical/tables/encoder-pair-correlations.csv,Mean spearman_rho by encoder pair and metric_name
+5,Fig5.pdf,V1 controlled-degradation response matrix,results/canonical/tables/construct-validity.csv,estimate by metric_name and transformation_id; asterisk where p_adjusted<0.05
+6,Fig6.pdf,V3 stability versus semantic alignment,results/canonical/tables/cluster-semantic-validity.csv,Mean selected_minus_sqrt stability and AMI by dataset_id
