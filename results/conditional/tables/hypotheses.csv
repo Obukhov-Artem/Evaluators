@@ -1,0 +1,3 @@
+contrast_ids,hypothesis_id,primary_endpoint,status,supported_contrasts,tested_contrasts
+"[""h1_qlora_text_is""]",h1_text_is_fidelity,text_is,supported,1,1
+"[""h3_qlora_label_accuracy""]",h3_small_model_adaptation,label_accuracy,not_supported,0,1

@@ -1,0 +1,4 @@
+direction,direction_label,metric_name,model_ids,value
+minimize,↓ меньше — лучше,fbd,"[""generator_smollm_1_7b""]",0.8511307701475692
+maximize,↑ больше — лучше,MAUVE,"[""generator_smollm_1_7b""]",0.029881996738978473
+maximize,↑ больше — лучше,stability_gain_over_sqrt_n,"[""generator_small_a""]",0.1118536915163585

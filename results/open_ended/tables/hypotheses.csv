@@ -1,0 +1,3 @@
+contrast_ids,hypothesis_id,primary_endpoint,status,supported_contrasts,tested_contrasts
+"[""h2_fbd_stability_above_mauve""]",h2_fbd_stability,fbd_stability_advantage,supported,1,1
+"[""h4_stability_gain_positive""]",h4_cluster_selection,stability_gain_over_sqrt_n,supported,1,1

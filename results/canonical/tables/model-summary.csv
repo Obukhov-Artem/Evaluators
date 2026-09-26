@@ -1,0 +1,13 @@
+﻿model_id,seed_count,source_role,unit_count
+generator_medium_b,8,conditional,32
+generator_qwen_0_5b,8,conditional,32
+generator_small_a,8,conditional,32
+generator_smollm_1_7b,8,conditional,32
+generator_smollm_360m,8,conditional,32
+generator_tinyllama_1_1b,8,conditional,32
+generator_medium_b,8,open_ended,240
+generator_qwen_0_5b,8,open_ended,240
+generator_small_a,8,open_ended,240
+generator_smollm_1_7b,8,open_ended,240
+generator_smollm_360m,8,open_ended,240
+generator_tinyllama_1_1b,8,open_ended,240

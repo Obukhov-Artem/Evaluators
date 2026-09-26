@@ -1,0 +1,5 @@
+direction,direction_label,metric_name,model_ids,value
+minimize,↓ меньше — лучше,fbd,"[""generator_tinyllama_1_1b""]",0.36449572249320705
+maximize,↑ больше — лучше,label_accuracy,"[""generator_medium_b""]",0.8751171875
+maximize,↑ больше — лучше,MAUVE-style frontier score,"[""generator_tinyllama_1_1b""]",0.42465802041848466
+maximize,↑ больше — лучше,text_is,"[""generator_medium_b""]",1.1456098417963665
