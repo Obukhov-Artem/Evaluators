@@ -1,0 +1,13 @@
+{
+  "generated": {
+    "conditional_rows": 76800,
+    "open_ended_rows": 144000,
+    "total_rows": 220800
+  },
+  "source_index": {
+    "contains_source_text": false,
+    "dataset_snapshots": 8,
+    "rows": 23998,
+    "sha256": "fa24ceea8b19d01d6c0d713522f3d8be917254455f221c0892cb8d4fe2237cde"
+  }
+}
